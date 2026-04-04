@@ -4,4 +4,4 @@
 - [numpy](numpy.ipynb)
 - [basics-of-python](aiandml.ipynb)
 - [filehandling](fileHandling.ipynb)
-- [importantcode](examsPrograms.ipynb)
+- [basic-codes](BasicexamsPrograms.ipynb)
